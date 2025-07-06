@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////////////////////
 //      AES-256.cpp : Encriptador y Desencriptador de Archivos con AES-256     //
 //                              AES-256 1.0                                    //
-//           weblackbug (c) 2025 By Sergi .C Engineer softaware                //
+//           weblackbug (c) 2025 By Sergi .C Engineer software                 //
 //                             - Julio dia 6 -                                 //
 /////////////////////////////////////////////////////////////////////////////////
 
